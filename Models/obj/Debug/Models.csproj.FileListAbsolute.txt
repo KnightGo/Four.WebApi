@@ -1,0 +1,5 @@
+D:\WorkNet\Four.WebApi\Models\bin\Debug\Models.dll
+D:\WorkNet\Four.WebApi\Models\bin\Debug\Models.pdb
+D:\WorkNet\Four.WebApi\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\WorkNet\Four.WebApi\Models\obj\Debug\Models.dll
+D:\WorkNet\Four.WebApi\Models\obj\Debug\Models.pdb

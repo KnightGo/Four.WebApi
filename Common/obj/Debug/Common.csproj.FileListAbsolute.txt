@@ -1,0 +1,15 @@
+D:\WorkNet\Four.WebApi\Common\bin\Debug\Common.dll
+D:\WorkNet\Four.WebApi\Common\bin\Debug\Common.pdb
+D:\WorkNet\Four.WebApi\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\WorkNet\Four.WebApi\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\WorkNet\Four.WebApi\Common\obj\Debug\Common.dll
+D:\WorkNet\Four.WebApi\Common\obj\Debug\Common.pdb
+D:\WorkNet\Four.WebApi\Common\bin\Debug\Newtonsoft.Json.dll
+D:\WorkNet\Four.WebApi\Common\bin\Debug\Newtonsoft.Json.xml
+D:\WorkNet\Four.WebApi\Common\obj\Debug\Common.csproj.CopyComplete
+D:\WorkNet\Four.WebApi\Common\bin\Debug\Models.dll
+D:\WorkNet\Four.WebApi\Common\bin\Debug\Models.pdb
+D:\WorkNet\Four.WebApi\Common\bin\Debug\Newtonsoft.Json.pdb
+D:\WorkNet\Four.WebApi\Common\bin\Debug\ChnCharInfo.dll
+D:\WorkNet\Four.WebApi\Common\bin\Debug\log4net.dll
+D:\WorkNet\Four.WebApi\Common\bin\Debug\log4net.xml

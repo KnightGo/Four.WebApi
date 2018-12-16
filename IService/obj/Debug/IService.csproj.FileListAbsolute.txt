@@ -1,0 +1,9 @@
+D:\WorkNet\Four.WebApi\IService\bin\Debug\IService.dll
+D:\WorkNet\Four.WebApi\IService\bin\Debug\IService.pdb
+D:\WorkNet\Four.WebApi\IService\bin\Debug\Models.dll
+D:\WorkNet\Four.WebApi\IService\bin\Debug\Models.pdb
+D:\WorkNet\Four.WebApi\IService\obj\Debug\IService.csprojAssemblyReference.cache
+D:\WorkNet\Four.WebApi\IService\obj\Debug\IService.csproj.CoreCompileInputs.cache
+D:\WorkNet\Four.WebApi\IService\obj\Debug\IService.csproj.CopyComplete
+D:\WorkNet\Four.WebApi\IService\obj\Debug\IService.dll
+D:\WorkNet\Four.WebApi\IService\obj\Debug\IService.pdb
